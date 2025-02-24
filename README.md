@@ -96,7 +96,7 @@ Contributions are welcome! If you have ideas for improvements or bug fixes, feel
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC BY-NC 4.0 License. See the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
